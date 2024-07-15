@@ -1,4 +1,4 @@
-# **Exploring-Insights-in-AirBnb-with-Excel**
+# **Exploring Insights in AirBnb with Excel**
 
 This report analyzes the AirBnB market across several European cities using data visualizations from an Excel spreadsheet. The report reveals key insights into the booking trends, average prices, room types, host demographics, and overall satisfaction levels in each city.
 
